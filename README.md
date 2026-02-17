@@ -1,3 +1,5 @@
-# Repository/Project Name
+# SilverBloom-Website
 
-Base project description...
+Silver Bloom Website - https://www.silverbloom.si
+
+Published via GitHub Pages.
